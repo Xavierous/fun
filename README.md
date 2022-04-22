@@ -2,7 +2,7 @@
 YA MAAP KALO MASIH ADA YANG ERROR
 
 # RUN
-git clone httsp://github.com/Xavierous/fun
+git clone https://github.com/Xavierous/fun
 
 cd fun
 
